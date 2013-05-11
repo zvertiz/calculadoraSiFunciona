@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="ColorE65032Claro" parent="android:Theme.Light">
+
+    <item name="android:editTextStyle">@style/EditTextColorE65032Claro</item>
+
+    <item name="android:buttonStyle">@style/ButtonColorE65032Claro</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonColorE65032Claro</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerColorE65032Claro</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerColorE65032Claro.DropDown</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemColorE65032Claro</item>
+
+  </style>
+
+</resources>

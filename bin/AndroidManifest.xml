@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Consultor.indemnizate"
+    android:versionCode="5"
+    android:versionName="1.01"
+    android:installLocation="preferExternal"
+     >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="14" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.barprimercolor">
+        
+        <activity
+            android:name="MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name="Indemnizacion"
+            android:label="I n d e m n i z a c i o n" >
+        </activity>
+
+         <activity android:name="com.Consultor.indemnizate.Prima"
+                   android:label="P r i m a  L e g a l" >
+       
+             ></activity>
+                
+                
+       </application>
+
+</manifest>
+        
+        
+        
+        
+        
+        

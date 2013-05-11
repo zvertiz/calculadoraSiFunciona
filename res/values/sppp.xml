@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="sppp">
+	    <item>Mensual</item>
+	    <item>Diario</item>
+	    <item>Anual</item>
+	    </string-array>    
+</resources>

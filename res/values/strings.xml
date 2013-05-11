@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+   
+    <string name="app_name">I n d e m n i z @ t e</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">I n d e m n i z @ t e</string>
+    
+    <color  name="primercolor">#E65032</color>
+    <color  name="blanco">#FFFFFF</color>
+    <color  name="grisMuyClaro">#DCDCDC</color>
+    <color  name="negro">#000000</color>
+    
+    <string name="mensajeSppp">Periodicidad de Pago</string>
+    <string name="mensajeSpze">Selecciona Zona Económica</string>
+
+</resources>
